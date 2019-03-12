@@ -1,4 +1,4 @@
-# Snail Problem - APIs
+# Snail Problem - API
 
 REST services for the snail problem project:
 
